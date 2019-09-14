@@ -1,0 +1,5 @@
+RotaryPoll	KEYWORD1
+getDirection	KEYWORD2
+isPushed	KEYWORD2
+
+

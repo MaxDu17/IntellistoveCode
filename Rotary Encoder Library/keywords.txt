@@ -1,0 +1,7 @@
+Rotary	KEYWORD1
+getDirection	KEYWORD2
+isPushed	KEYWORD2
+detect	KEYWORD2
+getPin	KEYWORD2
+manualdt	KEYWORD 2
+
